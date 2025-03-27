@@ -9,7 +9,7 @@ I'm an SRE that has a few too many unfinished side projects and not many finishe
 <img src="icons/bash-icon-svgrepo-com.svg" alt="bash" width="30" height="30"/> 
 <img src="icons/docker-icon.svg" alt="docker" width="30" height="30"/> 
 <img src="icons/git-icon.svg" alt="git" width="30" height="30"/> 
-<img src="icons/golang-svgrepo-com.svg" alt="go" /> 
+<img src="icons/golang-svgrepo-com.svg" alt="go" width="30" height="30"/> 
 <img src="icons/kubernetes-svgrepo-com.svg" alt="kubernetes" width="30" height="30"/> 
 <img src="icons/python-svgrepo-com.svg" alt="python" width="30" height="30"/> 
 <img src="icons/swift-svgrepo-com.svg" alt="swift" width="30" height="30"/> </p>
